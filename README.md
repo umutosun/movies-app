@@ -1,7 +1,7 @@
 # Project Title
 Movies App
 # Live Link 
-https://shopping-umutosun.vercel.app/
+https://movies-app-zeta-khaki.vercel.app/
 # Table of Content
 # About The App
 Movies Application. The purpose of this project is to improve myself. 
