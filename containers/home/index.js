@@ -14,11 +14,11 @@ function HomeContainer({
     <div>
       <FeaturedMovie movie={topRatedMovies?.[1]} />
       <Categories categories={categories.slice(0, 5)} />
-      {selectedCategory.movies.length > 0 && (
+      {!!selectedCategory.movies.length > 0 && (
         <MoviesSection
           title={
             categories.find((genre) => `${genre.id}` === selectedCategory.id)
-              .name
+              ?.name
           }
           movies={selectedCategory.movies}
         />
