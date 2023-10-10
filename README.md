@@ -1,7 +1,6 @@
 # Project Title
 Movies App
 # Live Link 
-https://movies-app-zeta-khaki.vercel.app/
 # Table of Content
 # About The App
 Movies Application. The purpose of this project is to improve myself. 
